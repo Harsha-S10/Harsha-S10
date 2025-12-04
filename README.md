@@ -6,7 +6,7 @@ I enjoy working with **Python**, **Java**, **OpenCV**, and web technologies, and
 ---
 
 ### 🧠 About Me
-- 🎓 B.Tech Information Technology (CGPA: 8.0/10)  
+- 🎓 B.Tech Information Technology 
 - 💡 Strong interest in software development and backend engineering, with a focus on Python and Java  
 - 🧩 Good understanding of core programming concepts and comfortable learning new technologies quickly  
 - 🌱 Exploring AI/ML basics and improving my overall problem-solving and coding structure  
