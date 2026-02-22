@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Harsha  
 
 Final-year IT student passionate about software development and learning through hands-on coding.  
-I enjoy working with **Python**, **Java**, **OpenCV**, and web technologies, and I focus on understanding how real systems behave in practical scenarios.
+I enjoy working with **Python**, **Java**, **OpenCV**, and web technologies, and I focus on understanding how real systems behave in practical scenario.
 
 ---
 
