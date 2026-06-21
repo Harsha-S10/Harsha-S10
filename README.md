@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Harsha-S10&label=Profile%20Views&color=0e75b6&style=flat)
-
 ### 👋 Hi, I'm Harsha
 
 Final-year IT student passionate about software development and learning through hands-on coding.  
