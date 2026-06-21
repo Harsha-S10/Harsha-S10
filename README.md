@@ -32,11 +32,11 @@ I enjoy working with **Python**, **OpenCV**, and web technologies, and I focus o
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Harsha-S10&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsha-S10&theme=merko&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-S10&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Harsha-S10&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
