@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Harsha
 
-Final-year IT student passionate about software development and learning through hands-on coding.  
+Recent IT graduate passionate about software development and learning through hands-on coding.  
 My project experience has also involved task coordination, project coordination and building practical solutions.
 I enjoy working with **Python**, **OpenCV**, and web technologies, and I focus on understanding how real systems behave in practical scenario.
 
