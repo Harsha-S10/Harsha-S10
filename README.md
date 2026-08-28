@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Harsha
 
 Final-year IT student passionate about software development and learning through hands-on coding.  
+My project experience has also involved task coordination, project coordination and building practical solutions.
 I enjoy working with **Python**, **OpenCV**, and web technologies, and I focus on understanding how real systems behave in practical scenario.
 
 ---
@@ -8,9 +9,9 @@ I enjoy working with **Python**, **OpenCV**, and web technologies, and I focus o
 ### 🧠 About Me
 - 🎓 B.Tech Information Technology
 - 💡 Strong interest in software development and backend engineering, with a focus on Python and Java
+- 📋 Experience with project planning, task coordination, documentation, and reporting
 - 🧩 Good understanding of core programming concepts and comfortable learning new technologies quickly
 - 🌱 Exploring AI/ML basics and improving my overall problem-solving and coding structure
-- 🤝 Open to internships and opportunities where I can grow as a developer
 
 ---
 
@@ -50,12 +51,12 @@ A cybersecurity project combining Honeypots, Wazuh SIEM, and malware analysis te
 
 ---
 
-## 📈 Current Goals
+## 📈 Current Focus
 
-- Strengthen Data Structures & Algorithms skills
-- Build production-ready AI/ML applications
-- Contribute to open-source projects
-- Secure a Software Development / AI-ML role
+- Applying technical knowledge to real-world projects
+- Strengthening problem-solving and analytical skills
+- Working with AI/ML, software development, and data-driven applications
+- Developing skills in project coordination, documentation, and teamwork
 
 ---
 
